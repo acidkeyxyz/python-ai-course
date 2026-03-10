@@ -3,7 +3,7 @@ import requests
 def main():
     # Configuration
     MODEL = 'qwen3:8b'  # You can change this to any model available on your Ollama server
-    BASE_URL = 'http://localhost:11434/api/generate'
+    BASE_URL = 'http://192.168.68.102:11434/api/generate'
 
     # Prompt input from the user
     prompt = input("Enter your prompt: ")
