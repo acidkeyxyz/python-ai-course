@@ -35,5 +35,7 @@ El proyecto implementa un entorno de ejecución de Modelos de Lenguaje de Gran E
 
 1. **Clonar el repositorio:**
    ```bash
-   git clone [https://github.com/tu-usuario/ia-soberana-jalisco.git](https://github.com/tu-usuario/ia-soberana-jalisco.git)
+   git clone [https://github.com/acidkeyxyz/python-ai-course.git](https://github.com/acidkeyxyz/python-ai-course.git)
    cd ia-soberana-jalisco
+   python3 ollama-client.py
+```
